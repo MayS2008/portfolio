@@ -29,7 +29,7 @@ const work=[
     date:"Apr 2022 - May 2022Apr 2022 - May 2022",
     institute:"Associated with The University of SheffieldAssociated with The University of Sheffield",
     detail:"A celebration of collaboration and technological innovation, this team project showcases the power of collective effort and imagination. Tasked with the challenge of equipping a robot with the capability to autonomously explore its environment, the team rose to the occasion and developed a series of ROS nodes to bring their vision to life.With unwavering determination and a keen eye for detail, the team enabled the robot to traverse the obstacle-filled arena with grace and precision, each step guided by its autonomous algorithms. As the robot explored its surroundings, it generated a detailed map of the arena, capturing its every contour and nuance.With 90 seconds to showcase its capabilities, the robot embarked on a journey of discovery, traversing the unknown and pushing the boundaries of what was thought possible. Through its steadfast navigation, the robot explored as much of the arena as possible, avoiding obstacles and charting a path of triumph.This project stands as a testament to the power of collaboration and technological prowess, showcasing the limitless potential of human ingenuity and creativity.A celebration of collaboration and technological innovation, this team project showcases the power of collective effort and imagination. Tasked with the challenge of equipping a robot with the capability to autonomously explore its environment, the team rose to the occasion and developed a series of ROS nodes to bring their vision to life. With unwavering determination and a keen eye for detail, the team enabled the robot to traverse the obstacle-filled arena with grace and precision, each step guided by its autonomous algorithms. As the robot explored its surroundings, it generated a detailed map of the arena, capturing its every contour and nuance. With 90 seconds to showcase its capabilities, the robot embarked on a journey of discovery, traversing the unknown and pushing the boundaries of what was thought possible. Through its steadfast navigation, the robot explored as much of the arena as possible, avoiding obstacles and charting a path of triumph. This project stands as a testament to the power of collaboration and technological prowess, showcasing the limitless potential of human ingenuity and creativity.",
-    skill:"Linux Python (Programming Language) · Robot Operating System (ROS) ",
+    skill:"",
     project:""
   },
   {
@@ -45,7 +45,7 @@ const work=[
     4. Treasure hunting 
     5. Study of different types of CNN'sThis was a course project for the fulfillment of the coursework for Machine Vision. There were 5 objectives associated with this project : 1. Try basic Machine vision techniques such as analysis of image histograms, implement different edge detection algorithms such as sobel & Prewitt on images with different types of noises . 2. Implementation of Optical flow algorithm. 3. Automatic detection of a moving object in video frames. 4. Treasure hunting 5. Study of different types of CNN's
     `,
-    skill:"Machine Vision, Matlab",
+    skill:"",
     project:""
   },
   {
@@ -76,9 +76,7 @@ const work=[
     detail:`Worked in a team of three to design the whole procedure of experiments. particularly the frame of the robot and the circuit structure
     -Responsible for designing the robot arm jaw structure by using Autodesk Fusion 360, laser cutting, and assembling the robot. 
     -Designed the circuit and wrote the code in C++ for Arduino UnoWorked in a team of three to design the whole procedure of experiments. particularly the frame of the robot and the circuit structure -Responsible for designing the robot arm jaw structure by using Autodesk Fusion 360, laser cutting, and assembling the robot. -Designed the circuit and wrote the code in C++ for Arduino Uno`,
-    
-    skill:"English · Research · Engineering",
-    project:"https://youtu.be/aauMHBjGnpk"
+
   },
   {
     id:5,
@@ -87,8 +85,7 @@ const work=[
     date:"Oct 2021 - Nov 2021",
     institute:"Associated with The University of Sheffield",
     detail:"The purpose of this project was to design, implement, and test a control strategy for the e-puck2 robot to accomplish two tasks i.e., Exploring a constrained environment with obstacles and chasing an object in an open environment. To accomplish these two tasks, inbuilt IR proximity sensors and ToF (time of flight) distance sensors were used for taking logical decisions. Both the tasks were performed successfully with some minor bugs in robots’ performance due to inherent uncertainties associated with real robots. Performance of the mentioned undertakings helped in understanding the problems associated with implementation of logic on real robots.The purpose of this project was to design, implement, and test a control strategy for the e-puck2 robot to accomplish two tasks i.e., Exploring a constrained environment with obstacles and chasing an object in an open environment. To accomplish these two tasks, inbuilt IR proximity sensors and ToF (time of flight) distance sensors were used for taking logical decisions. Both the tasks were performed successfully with some minor bugs in robots’ performance due to inherent uncertainties associated with real robots. Performance of the mentioned undertakings helped in understanding the problems associated with implementation of logic on real robots.",
-    skill:"English · Research · Engineering",
-    project:"https://github.com/Ankur6889/codes_for_e-puck"
+    skill:"",
   },
   {
     id:6,
@@ -97,8 +94,8 @@ const work=[
     date:"Sep 2021 - Oct 2021",
     institute:"Associated with The University of SheffieldAssociated with The University of Sheffield",
     detail:"	The objective of this project is to develop the best machine learning model that can predict the housing price for a given dataset. After careful consideration of all the available alternatives Linear Regression has been chosen to build a predictive model using Orange.A python code for learning curves is writtern for Error estimation to determine the effectiveness of our model .The objective of this project is to develop the best machine learning model that can predict the housing price for a given dataset. After careful consideration of all the available alternatives Linear Regression has been chosen to build a predictive model using Orange.A python code for learning curves is writtern for Error estimation to determine the effectiveness of our model ",
-    skill:"Linux Python (Programming Language) · Robot Operating System (ROS) ",
-    project:"https://github.com/Ankur6889/Housing-Price-Prediction-using-Machine-Learning-"
+    skill:""
+    
   },
   {
     id:7,
