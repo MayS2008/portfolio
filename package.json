@@ -43,5 +43,6 @@
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
     "vite": "^4.3.9"
+    "homepage": "https://MayS2008.github.io/portfolio"
   }
 }
